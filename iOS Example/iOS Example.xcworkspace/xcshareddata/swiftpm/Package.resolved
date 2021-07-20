@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Swafka",
+        "repositoryURL": "https://github.com/johannfza/Swafka.git",
+        "state": {
+          "branch": "main",
+          "revision": "c5a9e700a670673f12265ddc40ea3ab7ea221985",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
